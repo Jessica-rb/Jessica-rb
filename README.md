@@ -3,15 +3,17 @@
 - 🌱 I’m currently learning Front-end and Back-end
 - 😄 Pronouns: She/her
 
+<br>
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jessica-rb&count_private=true&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jessica-rb&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jessica-rb&layout=compact&theme=tokyonight)
 
 <div style="display: inline_block"><br>
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"/>
-  <img align="right" height="150" style="border-radius:50px;" src="assets/dog.gif">
+  <img align="right" height="150" style="border-radius:50px;" src="src/dog.gif">
 </div>
 
 ##
