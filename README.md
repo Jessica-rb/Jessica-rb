@@ -1,4 +1,4 @@
-### Hi there, I'm Jéssica 👋
+### Hi there, I'm Jéssica <img align="center" width="50" src="src/flag.png"/>
 
 - 🌱 I’m currently learning Front-end and Back-end
 - 😄 Pronouns: She/her
