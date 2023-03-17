@@ -9,14 +9,14 @@
 <br>
 
 <p align="center">
-  <i>A Computer Technician, graduated from IFC, studying to become a Full Stack Developer, at Growdev.</i>
+  <i>An IT Technician, graduated from IFC, studying to become a Full Stack Developer, at Growdev.</i>
 </p>
 
 <br><br>
 
 <h2>🌟 About me</h2> <img align="right" height="170" style="border-radius:50px;" src="src/dog.gif">
 <p>
-• 🎓 IFC - Computer Technician <br>
+• 🎓 IFC - IT Technician <br>
 • 💻 Growdev Student <br>
 • 📚 My hobby is reading <br>
 • 🌱 I’m currently learning Front-end <br>
