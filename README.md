@@ -27,11 +27,9 @@
 
 <div>
   <p align="center">
-    <a href="https://github.com/AVS1508">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Jessica-rb&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Jessica-rb&layout=compact&langs_count=8&theme=tokyonight"/>
     <img height="220em" src="https://github-readme-streak-stats.herokuapp.com/?user=Jessica-rb&theme=tokyonight&date_format=j%20M%5B%20Y%5D&" alt="GitHub Streak Stats"/>
-    </a>
   </p>
 </div>
 
